@@ -1,0 +1,6 @@
+pymongo[srv]
+python-dotenv
+kagglehub
+ipykernel
+ipywidgets
+pandas
