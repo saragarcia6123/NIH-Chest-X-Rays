@@ -1,0 +1,1 @@
+atelectasis,consolidation,infiltration,pneumothorax,edema,emphysema,fibrosis,effusion,pneumonia,pleural_thickening,cardiomegaly,nodule,mass,hernia

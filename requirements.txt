@@ -1,6 +1,16 @@
-pymongo[srv]
+# Core
 python-dotenv
-kagglehub
+
+# Jupyter
 ipykernel
 ipywidgets
+
+# Data
 pandas
+
+# MongoDB
+pymongo[srv]
+
+# GCP
+google-cloud-storage
+
